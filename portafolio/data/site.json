@@ -1,0 +1,306 @@
+{
+  "name": "Walter Reyes",
+  "role": "Desarrollador y creador digital",
+  "tagline": "Construyo proyectos con código limpio y diseño sólido.",
+  "about": "Soy una persona curiosa y apasionada por el conocimiento, con una mente ágil que me impulsa a encontrar soluciones ingeniosas ante cualquier desafío. Me considero muy creativo, lo que me permite abordar los proyectos desde perspectivas originales y frescas, pero sin perder de vista la eficacia: sé organizar mi tiempo, priorizar tareas y transformar ideas abstractas en resultados concretos de forma fluida y constante.\n\nComo programador y diseñador digital, mi forma de trabajar combina lo mejor de dos mundos: la lógica estructurada del código y la sensibilidad estética del diseño. Me especializo en crear experiencias digitales impecables donde la funcionalidad, el rendimiento y la usabilidad van siempre de la mano. Gracias a mi enfoque metódico y orientado a los detalles, entrego proyectos limpios, escalables y visualmente atractivos, manteniéndome siempre al día con las últimas tecnologías y tendencias del sector.",
+  "photo": "img/perfil.jpg",
+  "photo_v": "1",
+  "services": [
+    {
+      "title": "Desarrollo web",
+      "text": "Sitios y aplicaciones a la medida, rápidos y fáciles de mantener."
+    },
+    {
+      "title": "Automatización con Python",
+      "text": "Scripts y herramientas que ahorran horas de trabajo repetitivo."
+    },
+    {
+      "title": "Diseño de interfaces",
+      "text": "Pantallas claras y con carácter, pensadas para quien las usa."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python",
+      "level": 85
+    },
+    {
+      "name": "HTML y CSS",
+      "level": 65
+    },
+    {
+      "name": "JavaScript",
+      "level": 55
+    },
+    {
+      "name": "Diseño gráfico",
+      "level": 70
+    }
+  ],
+  "contact": {
+    "email": "walterj.reyes09@gmail.com",
+    "whatsapp": "8852-3074",
+    "instagram": "walt_353"
+  },
+  "folders": [
+    {
+      "slug": "carpeta-1",
+      "name": "Carpeta 1",
+      "description": "Mis trabajos en photoshop y lightroom",
+      "works": [
+        {
+          "id": "25fcd13f38",
+          "title": "WhatsApp Image 2026-10-20 at 4.05.36 PM",
+          "file": "2f3b99d9_WhatsApp_Image_2026-10-20_at_4.05.36_PM.jpeg"
+        },
+        {
+          "id": "201b21795c",
+          "title": "HISTORIAS DE IG 1",
+          "file": "a97833af_HISTORIAS_DE_IG_1.png"
+        },
+        {
+          "id": "d26d366470",
+          "title": "Historias de IG 2",
+          "file": "26d8b74b_Historias_de_IG_2.png"
+        },
+        {
+          "id": "cdd89e1af2",
+          "title": "Historias de ig 3",
+          "file": "a038e802_Historias_de_ig_3.png"
+        },
+        {
+          "id": "ff9019228b",
+          "title": "Proyecto nuevo",
+          "file": "0a926a83_Proyecto_nuevo.png"
+        },
+        {
+          "id": "21f74d1266",
+          "title": "Vivian 1",
+          "file": "17402a04_Vivian_1.png"
+        },
+        {
+          "id": "0c518876e6",
+          "title": "Vivian 2",
+          "file": "0d4c5af8_Vivian_2.png"
+        },
+        {
+          "id": "edb12707c3",
+          "title": "Vivian 3",
+          "file": "f0a67ad6_Vivian_3.png"
+        },
+        {
+          "id": "262d7b6726",
+          "title": "Vivian 4",
+          "file": "f60d8165_Vivian_4.png"
+        },
+        {
+          "id": "8725c7c81e",
+          "title": "Vivian 5",
+          "file": "9d9abde0_Vivian_5.png"
+        },
+        {
+          "id": "b9cb2f8311",
+          "title": "Captura de pantalla 2026-10-20 160859",
+          "file": "a2b042f7_Captura_de_pantalla_2026-10-20_160859.png"
+        },
+        {
+          "id": "b43ff37754",
+          "title": "Captura de pantalla 2026-10-20 160951",
+          "file": "50fbd493_Captura_de_pantalla_2026-10-20_160951.png"
+        },
+        {
+          "id": "afd3e88044",
+          "title": "Captura de pantalla 2026-10-20 161148",
+          "file": "923600b4_Captura_de_pantalla_2026-10-20_161148.png"
+        },
+        {
+          "id": "68f3e502a5",
+          "title": "Captura de pantalla 2026-10-20 161213",
+          "file": "b40b685a_Captura_de_pantalla_2026-10-20_161213.png"
+        }
+      ]
+    },
+    {
+      "slug": "carpeta-2",
+      "name": "Carpeta 2",
+      "description": "Mis trabajos en photoshop y lightroom",
+      "works": [
+        {
+          "id": "75af3b40e3",
+          "title": "DSC 0127",
+          "file": "7ec59468_DSC_0127.jpg"
+        },
+        {
+          "id": "fb0040e3cc",
+          "title": "DSC 0124",
+          "file": "343ca734_DSC_0124.jpg"
+        },
+        {
+          "id": "ee5b2cac38",
+          "title": "DSC 0121",
+          "file": "d2c28c72_DSC_0121.jpg"
+        },
+        {
+          "id": "7283d7b2f7",
+          "title": "DSC 0117",
+          "file": "2f0b1294_DSC_0117.jpg"
+        },
+        {
+          "id": "3c578c647d",
+          "title": "DSC 0130",
+          "file": "79be32d4_DSC_0130.jpg"
+        },
+        {
+          "id": "443668c7cc",
+          "title": "Lightroom 1",
+          "file": "7bfee5e5_Lightroom_1.jpg"
+        },
+        {
+          "id": "0760d019f8",
+          "title": "WhatsApp Image 2026-05-20 at 9.40.00 AM 1",
+          "file": "a554fb0d_WhatsApp_Image_2026-05-20_at_9.40.00_AM_1.jpeg"
+        },
+        {
+          "id": "e00db9bd60",
+          "title": "WhatsApp Image 2026-05-20 at 9.40.00 AM",
+          "file": "11bbac61_WhatsApp_Image_2026-05-20_at_9.40.00_AM.jpeg"
+        },
+        {
+          "id": "665afd5ec7",
+          "title": "WhatsApp Image 2026-05-20 at 9.40.55 AM",
+          "file": "3a8a6fa2_WhatsApp_Image_2026-05-20_at_9.40.55_AM.jpeg"
+        },
+        {
+          "id": "98125c57a7",
+          "title": "DSC 0401",
+          "file": "7675d04a_DSC_0401.jpg"
+        },
+        {
+          "id": "ea5bbb140d",
+          "title": "DSC 0379",
+          "file": "b1828f05_DSC_0379.jpg"
+        },
+        {
+          "id": "76dbc40f80",
+          "title": "DSC 0385",
+          "file": "8abef8c0_DSC_0385.jpg"
+        },
+        {
+          "id": "f83d5db781",
+          "title": "DSC 0353",
+          "file": "1cad4da7_DSC_0353.jpg"
+        },
+        {
+          "id": "8d99282ef9",
+          "title": "DSC 0345",
+          "file": "8ae10a88_DSC_0345.jpg"
+        },
+        {
+          "id": "abb9ddb5a7",
+          "title": "DSC 0339",
+          "file": "68e43ef8_DSC_0339.jpg"
+        },
+        {
+          "id": "cbc3aca515",
+          "title": "DSC 0334",
+          "file": "d308e515_DSC_0334.jpg"
+        },
+        {
+          "id": "408eeb4de8",
+          "title": "DSC 0336",
+          "file": "d289c98e_DSC_0336.jpg"
+        },
+        {
+          "id": "090a2460b7",
+          "title": "DSC 0313",
+          "file": "1f620e14_DSC_0313.jpg"
+        },
+        {
+          "id": "8215747745",
+          "title": "DSC 0325",
+          "file": "fbc09885_DSC_0325.jpg"
+        },
+        {
+          "id": "a08c166a09",
+          "title": "DSC 0398",
+          "file": "2197ab7d_DSC_0398.jpg"
+        },
+        {
+          "id": "ed1be2e50e",
+          "title": "DSC 0792",
+          "file": "8008f11a_DSC_0792.jpg"
+        },
+        {
+          "id": "0da6c63c7b",
+          "title": "DSC 0777",
+          "file": "12c763e4_DSC_0777.jpg"
+        },
+        {
+          "id": "f0f2b9c581",
+          "title": "DSC 0048",
+          "file": "41b86a66_DSC_0048.jpg"
+        },
+        {
+          "id": "b3c4a97c68",
+          "title": "DSC 0133",
+          "file": "b64bf9e3_DSC_0133.jpg"
+        },
+        {
+          "id": "5191e9c6d3",
+          "title": "DSC 0204",
+          "file": "85af4c96_DSC_0204.jpg"
+        },
+        {
+          "id": "c0bc839550",
+          "title": "DSC 0164",
+          "file": "2029a0e8_DSC_0164.jpg"
+        },
+        {
+          "id": "ededd069e3",
+          "title": "DSC 0159",
+          "file": "ffe59d4b_DSC_0159.jpg"
+        },
+        {
+          "id": "c4bf6a5f10",
+          "title": "DSC 0214",
+          "file": "b9a74529_DSC_0214.jpg"
+        },
+        {
+          "id": "5f6083a04f",
+          "title": "DSC 0184",
+          "file": "5f624f9b_DSC_0184.jpg"
+        },
+        {
+          "id": "01c5a7a92e",
+          "title": "DSC 0178",
+          "file": "5ae3f2fa_DSC_0178.jpg"
+        },
+        {
+          "id": "b484b5e14a",
+          "title": "DSC 0129",
+          "file": "c5dda052_DSC_0129.jpg"
+        },
+        {
+          "id": "f3f0373d1b",
+          "title": "DSC 0137",
+          "file": "bdcebbc1_DSC_0137.jpg"
+        },
+        {
+          "id": "a1f752c219",
+          "title": "DSC 0226",
+          "file": "00f1795d_DSC_0226.jpg"
+        },
+        {
+          "id": "c1384e89d2",
+          "title": "DSC 0117a",
+          "file": "38f88e13_DSC_0117a.jpg"
+        },
+        {
+          "id": "20817ac1ec",
+          "title": "Captura de pantalla 2026-10-20 161930",
+          "file": "0881103b_Captura_de_pantalla_2026-10-20_161930.png"
+        }
+      ]
+    }
+  ]
+}
